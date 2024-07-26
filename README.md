@@ -14,4 +14,3 @@
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeGustas&show_icons=true&theme=radical&hide_title=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeGustas&layout=compact&theme=radical)
-##
