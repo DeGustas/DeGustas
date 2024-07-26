@@ -12,5 +12,6 @@
 ![NodeJS image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeGustas&show_icons=true&theme=radical&hide_title=true&hide=contribs):![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeGustas&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeGustas&show_icons=true&theme=radical&hide_title=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeGustas&layout=compact&theme=radical)
 ##
