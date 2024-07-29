@@ -18,3 +18,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeGustas&show_icons=true&theme=radical&hide_title=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeGustas&layout=compact&theme=radical)
 ***
+## Socials
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](www.linkedin.com/in/gustavo-souza-496068320)
